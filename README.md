@@ -24,13 +24,13 @@ Before:
 After:
 <img src="https://i.imgur.com/eXHdXkO.png">
 
+28e80a550a000018    CPU Cooler<br>
+28e254550a0000e0    GPU Area<br>
+28b2c7540a0000b8    HDD Area<br>
+287dbf540a000050    RAM Area
+
 > Where to from here?
 If this was a product I was going to keep using I could easily add MQTT funcionatily so that it can post the temperatures to my MQTT server and I could create alerts or monitor the temperatures over time and visualize it. At this time it fixed the issues so the project is not going to advance and this time.
-
-## Code Samples
-
-
-
 
 ## Installation
 
